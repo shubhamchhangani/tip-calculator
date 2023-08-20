@@ -1,0 +1,20 @@
+*{
+  background-color: gray;
+  color: aliceblue;
+  text-align: center;
+}
+
+#root {
+  border: 3px solid white;
+  border-radius: 17px;
+  padding: 5px;
+  margin-top: 150px;
+  margin-bottom: 5px;
+}
+
+#btn{
+  padding: 5px;
+  width: 60px;
+  border-radius: 10px;
+  border: 3px solid red;
+}
